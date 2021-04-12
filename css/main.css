@@ -1,0 +1,13 @@
+body {
+  background-color: navy;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#countdown {
+  font-size: 300px;
+  color: skyblue;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+}
